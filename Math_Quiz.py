@@ -34,4 +34,5 @@ total_time = end_time - start_time #Gives time at end of code
 
 print("---------------------")
 print("Nice work! You finished in", total_time, "seconds!")
+print("Total wrong answers = ", wrong)
     
