@@ -1,7 +1,7 @@
 import random
 import time
-
-OPERATORS = ["+", "-", "*" ] #Can not ad divison or the a lot of answers will not work.
+# HI
+OPERATORS = ["+", "-", "*"]  # Can not ad divison or the a lot of answers will not work.
 MIN_OPERAND = 3 #Lowest Number you can get
 MAX_OPERAND = 12 #Highest Number you can get
 TOTAL_PROBLEMS = 5 #Number of problems
